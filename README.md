@@ -9,5 +9,11 @@ Some of the questions that need to be answered include which launch site, orbit
 has more successes? How success is impacted by payload mass, booster
 version? How does flight number affect success?
 
+## Prerequisites and tools used
+
+## Steps involved
+
+## Findings and results
+
 
 
