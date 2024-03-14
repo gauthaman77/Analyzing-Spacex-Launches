@@ -13,7 +13,7 @@ version? How does flight number affect success?
 Pandas  
 Numpy  
 BeautifulSoup  
-SQLAlchemy
+SQLAlchemy  
 Seaborn  
 Matplotlib  
 Folium  
@@ -27,7 +27,7 @@ Sklearn
 Using Spacex Api data of past launches were collected and relevant subsequent api calls were made. Data was cleaned and filtered for Falcon 9 launches.
 Also web scraped Wiki page of the Falcon 9 launches and cleaned the data.
 ### Perform data wrangling
-The various types of landing outcomes were classified into success or failure and added as a field to the dat
+The various types of landing outcomes were classified into success or failure and added as a field to the data
 ### Perform exploratory data analysis (EDA) using visualization and SQL
 ### Perform interactive visual analytics using Folium and Plotly Dash
 ### Perform predictive analysis using classification models
