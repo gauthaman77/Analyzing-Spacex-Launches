@@ -35,12 +35,12 @@ LogisticRegression, SVCClassifier, DecisionTreeClassifer and KNeigborClassifier 
 
 
 ## Findings and results
-Launch successes have increased, as flight number increases, which may be due to learnings in earlier launches.   
-High payloads (above 10000kg) have high success/failure ratio  
-ES L1, HEO, GEO and SSO orbits have all successes. The number of launches in them are not high, and payloads are below 6000 kg.  
-The launch sites tend to be near coastline and modes of transportation and far away from city.  
-Booster version FT has more success/failure ratio, in the 1000-9000 kg payload mass range, with some number of launches.  
-B5 booster version is used for high payloads.  
+1. Launch successes have increased, as flight number increases, which may be due to learnings in earlier launches.   
+2. High payloads (above 10000kg) have high success/failure ratio  
+3. ES L1, HEO, GEO and SSO orbits have all successes. The number of launches in them are not high, and payloads are below 6000 kg.  
+4. The launch sites tend to be near coastline and modes of transportation and far away from city.  
+5. Booster version FT has more success/failure ratio, in the 1000-9000 kg payload mass range, with some number of launches.  
+   B5 booster version is used for high payloads.  
 
 
 
